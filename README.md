@@ -1,2 +1,2 @@
-# HTML-basico1
-Apenas material de estudo comum, texto, imagem e links
+Este foi um dos meus primeiros estudos práticos de HTML. Nele, aprendi a estruturar uma página, usar títulos, parágrafos, imagens, links e comentários no código. Também experimentei recursos como quebra de linha, texto em negrito e itálico, além de links para outras páginas e redes sociais.
+Ainda é um projeto simples, mas representa uma etapa importante do meu aprendizado: cada linha foi uma oportunidade para entender melhor como uma página da web funciona.
